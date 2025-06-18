@@ -3,6 +3,6 @@ form{
 	font-weight:bold;
 	font-size:50px;
 }
- .radio-group input:nth-of-type(even) + label {
+input:nth-of-type(even) + label {
       color: red;
     }
