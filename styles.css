@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+form{
+	font-weight:bold;
+	font-size:50px;
+}
+.input{
+	color:red;
+}
