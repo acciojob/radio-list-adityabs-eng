@@ -1,8 +1,8 @@
-/*  your css code here. If applicable */
-form{
-	font-weight:bold;
-	font-size:50px;
-}
-.input:nth-child(even) + label {
+
+/* .input:nth-child(even) + label {
       color:rgb(255,0,0);
-    }
+    } */
+
+.input:nth-child(2n) {
+    color: rgb(255, 0, 0);
+}
